@@ -1,4 +1,9 @@
-# 👋 Hi, I’m Soumyadeep Singh (@singhsoumya0109)
+# 👋 Hi, I’m Soumyadeep Singh
+
+
+### 🎓 About Me
+- 3rd-year B.Tech student in Computer Science at Jadavpur University, Kolkata
+
 
 ### 👀 I’m interested in
 - Full Stack Web Development
@@ -6,10 +11,12 @@
 - Machine Learning
 - Open Source Contribution
 
-### 🌱 I’m currently learning
-- Advanced Algorithms
-- Deep Learning Techniques
-- Web3 and Blockchain Development
+
+### 🛠️ Skills
+- **Languages:** C/C++, Java, Python, HTML, CSS, JavaScript, SQL, NoSQL
+- **Developer Tools:** VS Code, IntelliJ IDEA Ultimate
+- **Technologies/Frameworks:** Linux, Unix, GitHub, Node.js, Express.js, Git, MongoDB
+- **Domains:** Full Stack Web Development, Competitive Programming, Machine Learning
 
 ### 💼 Projects
 - **[Infinite Tic-Tac-Toe](https://github.com/singhsoumya0109/Infinite-Tic-Tac-Toe)**: A dynamic tic-tac-toe game with two modes: Standard and Disappearing Moves, developed using HTML5, CSS3, and JavaScript.
