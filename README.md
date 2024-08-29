@@ -9,6 +9,24 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=singhsoumya0109&theme=radical)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhsoumya0109&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+### Some of my social profiles:
+
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][2]
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)][3]
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)][4]
+[![Codeforces Badge](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)][5]
+
+
+[2]: www.linkedin.com/in/soumyadeep-singh-347044258
+[3]: https://github.com/singhsoumya0109
+[4]: https://leetcode.com/u/Soumyadeep_Singh2004/
+[5]: https://codeforces.com/profile/singhsoumya_coder
+
+### The Technologies I'm familiar with:
+![FullTechStack](https://skillicons.dev/icons?i=python,cpp,html,css,js,nodejs,express,react,mongo,mysql,git,docker,kubernetes,latex,qt,flask,ansible)
+
+
 ### 👀 I’m interested in
 - Full Stack Web Development
 - Competitive Programming
