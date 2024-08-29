@@ -23,16 +23,14 @@
 [4]: https://leetcode.com/u/Soumyadeep_Singh2004/
 [5]: https://codeforces.com/profile/singhsoumya_coder
 
-### The Technologies I'm familiar with:
-![FullTechStack](https://skillicons.dev/icons?i=python,cpp,html,css,js,nodejs,express,react,mongo,mysql,git,docker,kubernetes,latex,qt,flask,ansible)
-
+### The Technologies I'm familiar with(Used at least once/twice):(Not that I'm expert on using all of them)
+![FullTechStack](https://skillicons.dev/icons?i=atom,bash,c,cpp,css,express,git,github,html,java,js,latex,linux,mongo,mysql,next,nodejs,postman,powershell,python,qt,react,vim,vscode)
 
 ### 👀 I’m interested in
 - Full Stack Web Development
 - Competitive Programming
 - Machine Learning & AI
 - Open Source Contribution
-- Blockchain & Web3
 
 
 ### 🛠️ Skills and Technologies
