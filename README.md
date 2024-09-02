@@ -25,7 +25,7 @@
 [5]: https://codeforces.com/profile/singhsoumya_coder
 
 ### The Technologies I'm familiar with(Used at least once/twice):(Not that I'm expert on using all of them)
-![FullTechStack](https://skillicons.dev/icons?i=atom,bash,c,cpp,css,express,git,github,html,java,js,latex,linux,mongo,mysql,next,nodejs,postman,powershell,python,qt,react,vim,vscode)
+![FullTechStack](https://skillicons.dev/icons?i=bash,c,cpp,css,express,git,github,html,java,js,latex,linux,mongo,mysql,next,nodejs,postman,powershell,python,qt,react,vim,vscode)
 
 ### 👀 I’m interested in
 - Full Stack Web Development
