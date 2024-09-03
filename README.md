@@ -3,14 +3,37 @@
 ### 🎓 About Me
 - 3rd-year B.Tech student in Computer Science at Jadavpur University, Kolkata
 - Passionate about problem-solving, software development, and cutting-edge technology.
-<div align="center"><img src="https://komarev.com/ghpvc/?username=singhsoumya0109&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"></div><br>
+<!--<div align="center"><img src="https://komarev.com/ghpvc/?username=singhsoumya0109&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"></div><br>
 
 ### 📊 GitHub Stats
 ![Soumyadeep Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhsoumya0109&show_icons=true&theme=radical)
+![LeetCode Profile](https://leetcard.jacoblin.cool/Soumyadeep_Singh2004?ext=contest)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=singhsoumya0109&theme=radical)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhsoumya0109&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhsoumya0109&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
+<div align="center"><img src="https://komarev.com/ghpvc/?username=singhsoumya0109&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"></div><br>
+
+### 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=singhsoumya0109&show_icons=true&theme=radical" alt="Soumyadeep Singh's GitHub Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhsoumya0109&theme=radical" alt="GitHub Streak">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/Soumyadeep_Singh2004?ext=contest" alt="LeetCode Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhsoumya0109&layout=compact&theme=radical" alt="Top Languages" width=550>
+    </td>
+  </tr>
+</table>
 
 ### Some of my social profiles:
 
@@ -73,7 +96,7 @@
 - Solved 1000+ problems on [LeetCode](https://leetcode.com/u/Soumyadeep_Singh2004/)
 - Knight rank in LeetCode contests (Rating: 2036, Top 2.3%)
 - Specialist rank on [Codeforces](https://codeforces.com/profile/singhsoumya0109) (Rating: 1448)
-- 3* on [CodeChef](https://www.codechef.com/users/singhsoumya998) (Rating: 1751)
+
 
 ### 📫 How to reach me
 - [Email](mailto:singhsoumya1103@gmail.com)
