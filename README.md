@@ -14,17 +14,17 @@
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=singhsoumya0109&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"></div><br>
 
-### 📊 GitHub Stats
+### 📊 Leetcode and Languages used Stats
 
 <table>
-  <tr>
+ <!-- <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=singhsoumya0109&show_icons=true&theme=radical" alt="Soumyadeep Singh's GitHub Stats">
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhsoumya0109&theme=radical" alt="GitHub Streak">
     </td>
-  </tr>
+  </tr>-->
   <tr>
     <td>
       <img src="https://leetcard.jacoblin.cool/Soumyadeep_Singh2004?ext=contest" alt="LeetCode Stats">
