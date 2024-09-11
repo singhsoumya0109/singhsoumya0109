@@ -44,7 +44,7 @@
 [![Codeforces Badge](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)][5]
 
 
-[2]: www.linkedin.com/in/soumyadeep-singh-347044258
+[2]: https://www.linkedin.com/in/soumyadeep-singh-347044258/
 [3]: https://github.com/singhsoumya0109
 [4]: https://leetcode.com/u/Soumyadeep_Singh2004/
 [5]: https://codeforces.com/profile/singhsoumya_coder
