@@ -97,7 +97,7 @@
 
 ### 🏆 Achievements
 - Solved 1000+ problems on [LeetCode](https://leetcode.com/u/Soumyadeep_Singh2004/)
-- Knight rank in LeetCode contests (Rating: 2036, Top 2.3%)
+- Knight rank in LeetCode contests (Rating: 2062, Top 2.01%)
 - Specialist rank on [Codeforces](https://codeforces.com/profile/singhsoumya0109) (Rating: 1448)
 
 
