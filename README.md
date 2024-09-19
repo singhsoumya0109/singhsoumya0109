@@ -85,7 +85,7 @@
 ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=white)
 
 ### 💼 Projects
-- **[Infinite Tic-Tac-Toe](https://github.com/singhsoumya0109/Infinite-Tic-Tac-Toe):** A dynamic tic-tac-toe game with two modes: Standard and Disappearing Moves, developed using HTML5, CSS3, and JavaScript.
+- **[Infinite Tic-Tac-Toe](https://singhsoumya0109.github.io/Infinite-Tic-Tac-Toe/):** A dynamic tic-tac-toe game with two modes: Standard and Disappearing Moves, developed using HTML5, CSS3, and JavaScript.
 - **[Hotels and Resorts in India](https://github.com/singhsoumya0109/Luxury-Lodgings-in-India):** A full-stack web application for managing hotels and resorts with features like adding reviews, map integration, and photo uploads using HTML, CSS, JavaScript, Node.js, and MongoDB.
 - **[Smart Line Follower](https://github.com/singhsoumya0109/SmartLineFollower):** A line-following robot that won first place in the 'HOMECOMING' competition at Srijan 2024.
 - **[BirdCLEF 2024 Competition](https://github.com/singhsoumya0109/BirdCLEF2024):** Participating in a global competition to identify bird species using machine learning, specifically focused on feature extraction and classification techniques.
@@ -97,7 +97,7 @@
 
 ### 🏆 Achievements
 - Solved 1000+ problems on [LeetCode](https://leetcode.com/u/Soumyadeep_Singh2004/)
-- Knight rank in LeetCode contests (Rating: 2062, Top 2.01%)
+- Knight rank in LeetCode contests (Rating: 2065, Top 1.98%)
 - Specialist rank on [Codeforces](https://codeforces.com/profile/singhsoumya0109) (Rating: 1448)
 
 
