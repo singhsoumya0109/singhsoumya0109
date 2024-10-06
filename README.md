@@ -1,9 +1,14 @@
 # 👋 Hi, I’m Soumyadeep Singh
 
+<div align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1HydSEWDBKuPgelG9GMoqxLaXrRb_WeZN" alt="Soumyadeep Singh" width="250" style="border-radius: 50%;"/>
+</div>
+
 ### 🎓 About Me
 - 3rd-year B.Tech student in Computer Science at Jadavpur University, Kolkata
-- Passionate about problem-solving, software development, and cutting-edge technology.
-
+- Passionate about problem-solving, software development, and cutting-edge technology
+- Experienced in full-stack development and competitive programming
+- Excited to contribute to innovative projects and develop cutting-edge solutions
 <!--- 👨‍💻Do check out my portfolio website [profile link](https://singhsoumya0109.github.io/Portfolio-website/) -->
 <!--<div align="center"><img src="https://komarev.com/ghpvc/?username=singhsoumya0109&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"></div><br>
 
@@ -16,15 +21,18 @@
 
 <!--<div align="center"><img src="https://komarev.com/ghpvc/?username=singhsoumya0109&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"></div><br> -->
 
+
+<!--[![singhsoumya0109's GitHub | Languages Over Time](https://stats.quine.sh/Singhsoumya0109/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Singhsoumya0109)-->
+
 ### 📊 Leetcode and other Stats
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=singhsoumya0109&show_icons=true&theme=radical" alt="Soumyadeep Singh's GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=singhsoumya0109&show_icons=true&theme=dark" alt="Soumyadeep Singh's GitHub Stats">
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhsoumya0109&theme=radical" alt="GitHub Streak">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhsoumya0109&theme=dark" alt="GitHub Streak">
     </td>
   </tr>
   <tr>
@@ -32,10 +40,12 @@
       <img src="https://leetcard.jacoblin.cool/Soumyadeep_Singh2004?ext=contest" alt="LeetCode Stats">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhsoumya0109&layout=compact&theme=radical" alt="Top Languages" width=550>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhsoumya0109&layout=compact&theme=dark" alt="Top Languages" width=550>
     </td>
   </tr>
 </table>
+
+
 
 ### Some of my social profiles:
 
@@ -96,13 +106,14 @@
 - Innovative web applications and tools
 
 ### 🏆 Achievements
-- Solved 1000+ problems on [LeetCode](https://leetcode.com/u/Soumyadeep_Singh2004/)
-- Knight rank in LeetCode contests (Rating: 2065, Top 1.98%)
+- Solved 1100+ problems on [LeetCode](https://leetcode.com/u/Soumyadeep_Singh2004/)
+- Knight rank in LeetCode contests (Rating: 2084, Top 1.78%)
 - Specialist rank on [Codeforces](https://codeforces.com/profile/singhsoumya0109) (Rating: 1448)
 
+### 📫 How to Reach Me
 
-### 📫 How to reach me
-- [Email](mailto:singhsoumya1103@gmail.com)
-- [LinkedIn](https://linkedin.com/in/soumyadeep-singh-347044258)
-- [GitHub](https://github.com/singhsoumya0109)
+- 📧 [Email](mailto:singhsoumya1103@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/soumyadeep-singh-347044258)
+- 👨‍💻 [GitHub](https://github.com/singhsoumya0109)
+
 
