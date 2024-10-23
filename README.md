@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Soumyadeep Singh
 
-<div align="center">
+<!--<div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1HydSEWDBKuPgelG9GMoqxLaXrRb_WeZN" alt="Soumyadeep Singh" width="250" style="border-radius: 50%;"/>
-</div>
+</div>-->
 
 ### 🎓 About Me
 - 3rd-year B.Tech student in Computer Science at Jadavpur University, Kolkata
