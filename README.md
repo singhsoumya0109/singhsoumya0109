@@ -9,7 +9,9 @@
 - Passionate about problem-solving, software development, and cutting-edge technology
 - Experienced in full-stack development and competitive programming
 - Excited to contribute to innovative projects and develop cutting-edge solutions
-<!--- 👨‍💻Do check out my portfolio website [profile link](https://singhsoumya0109.github.io/Portfolio-website/) -->
+
+👨‍💻Do check out my portfolio website [profile link](https://singhsoumya0109.github.io/Portfolio-website/) 
+
 <!--<div align="center"><img src="https://komarev.com/ghpvc/?username=singhsoumya0109&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"></div><br>
 
 ### 📊 GitHub Stats
