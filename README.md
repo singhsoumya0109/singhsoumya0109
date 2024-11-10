@@ -12,9 +12,9 @@
 
 👨‍💻Do check out my portfolio website [profile link](https://singhsoumya0109.github.io/Portfolio-website/) 
 
-<!--<div align="center"><img src="https://komarev.com/ghpvc/?username=singhsoumya0109&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"></div><br>
+<!--<div align="center"><img src="https://komarev.com/ghpvc/?username=singhsoumya0109&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"></div><br>-->
 
-### 📊 GitHub Stats
+<!--### 📊 GitHub Stats
 ![Soumyadeep Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhsoumya0109&show_icons=true&theme=radical)
 ![LeetCode Profile](https://leetcard.jacoblin.cool/Soumyadeep_Singh2004?ext=contest)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=singhsoumya0109&theme=radical)](https://git.io/streak-stats)
@@ -98,7 +98,7 @@
 
 ### 💼 Projects
 - **[Infinite Tic-Tac-Toe](https://singhsoumya0109.github.io/Infinite-Tic-Tac-Toe/):** A dynamic tic-tac-toe game with two modes: Standard and Disappearing Moves, developed using HTML5, CSS3, and JavaScript.
-- **[Hotels and Resorts in India](https://github.com/singhsoumya0109/Luxury-Lodgings-in-India):** A full-stack web application for managing hotels and resorts with features like adding reviews, map integration, and photo uploads using HTML, CSS, JavaScript, Node.js, and MongoDB.
+- **[Hotels and Resorts in India](https://luxury-lodgings-in-india.onrender.com/):** A full-stack web application for managing hotels and resorts with features like adding reviews, map integration, and photo uploads using HTML, CSS, JavaScript, Node.js, and MongoDB.
 - **[Smart Line Follower](https://github.com/singhsoumya0109/SmartLineFollower):** A line-following robot that won first place in the 'HOMECOMING' competition at Srijan 2024.
 - **[BirdCLEF 2024 Competition](https://github.com/singhsoumya0109/BirdCLEF2024):** Participating in a global competition to identify bird species using machine learning, specifically focused on feature extraction and classification techniques.
 
