@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Soumyadeep Singh
 
-
 ### 🎓 About Me
 - 3rd-year B.Tech student in Computer Science at Jadavpur University, Kolkata
 - Passionate about problem-solving, software development, and cutting-edge technology
@@ -114,5 +113,7 @@
 - 📧 [Email](mailto:singhsoumya1103@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/soumyadeep-singh-347044258)
 - 👨‍💻 [GitHub](https://github.com/singhsoumya0109)
+
+![lennart-butz-ukiyo2](https://github.com/Sayak-Bhunia/Sayak-Bhunia/assets/110457746/bd070ad5-b9dd-4d3c-8818-fc4127f93cc1)
 
 
