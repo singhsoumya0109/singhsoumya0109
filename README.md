@@ -1,4 +1,7 @@
-# 👋 Hi, I’m Soumyadeep Singh
+  <div style="text-align: center;">
+    <img width="800" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=800&lines=Hi+there%2C+I'm+Soumyadeep+Singh%21+%F0%9F%91%8B;Let's+Connect!" />
+  </div>
+<!--# 👋 Hi, I’m Soumyadeep Singh-->
 
 ### 🎓 About Me
 - 3rd-year B.Tech student in Computer Science at Jadavpur University, Kolkata
