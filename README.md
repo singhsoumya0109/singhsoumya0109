@@ -11,7 +11,7 @@
 
 👨‍💻Do check out my portfolio website [profile link](https://singhsoumya0109.github.io/Portfolio-website/) 
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=singhsoumya0109&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"></div><br>
+<!--<div align="center"><img src="https://komarev.com/ghpvc/?username=singhsoumya0109&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"></div><br>-->
 
 <!--### 📊 GitHub Stats
 ![Soumyadeep Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=singhsoumya0109&show_icons=true&theme=radical)
