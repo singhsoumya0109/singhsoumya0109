@@ -96,10 +96,20 @@
 ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=white)
 
 ### 💼 Projects
-- **[Infinite Tic-Tac-Toe](https://singhsoumya0109.github.io/Infinite-Tic-Tac-Toe/):** A dynamic tic-tac-toe game with two modes: Standard and Disappearing Moves, developed using HTML5, CSS3, and JavaScript.
-- **[Hotels and Resorts in India](https://luxury-lodgings-in-india.onrender.com/):** A full-stack web application for managing hotels and resorts with features like adding reviews, map integration, and photo uploads using HTML, CSS, JavaScript, Node.js, and MongoDB.
-- **[Smart Line Follower](https://github.com/singhsoumya0109/SmartLineFollower):** A line-following robot that won first place in the 'HOMECOMING' competition at Srijan 2024.
-- **[BirdCLEF 2024 Competition](https://github.com/singhsoumya0109/BirdCLEF2024):** Participating in a global competition to identify bird species using machine learning, specifically focused on feature extraction and classification techniques.
+- **[Infinite Tic-Tac-Toe](https://singhsoumya0109.github.io/Infinite-Tic-Tac-Toe/):** A dynamic tic-tac-toe game with two modes: Standard and Disappearing Moves, developed using HTML5, CSS3, and JavaScript.  
+  [GitHub Repository](https://github.com/singhsoumya0109/Infinite-Tic-Tac-Toe)
+
+- **[Hotels and Resorts in India](https://luxury-lodgings-in-india.onrender.com/):** A full-stack web application for managing hotels and resorts with features like adding reviews, map integration, and photo uploads using HTML, CSS, JavaScript, Node.js, and MongoDB.  
+  [GitHub Repository](https://github.com/singhsoumya0109/Luxury-Lodgings-in-India)
+- **[MERN Chat App](https://chatting-app-m9df.onrender.com/chats):** A real-time chat application with support for one-to-one and group chats, developed using the MERN stack with Socket.IO for real-time communication.  
+  [GitHub Repository](https://github.com/singhsoumya0109/mern-chat-app)
+
+- **[Smart Line Follower](https://github.com/singhsoumya0109/SmartLineFollower):** A line-following robot that won first place in the 'HOMECOMING' competition at Srijan 2024.  
+  [GitHub Repository](https://github.com/singhsoumya0109/SmartLineFollower)
+
+
+
+<!--- **[BirdCLEF 2024 Competition](https://github.com/singhsoumya0109/BirdCLEF2024):** Participating in a global competition to identify bird species using machine learning, specifically focused on feature extraction and classification techniques.-->
 
 ### 💞️ I’m looking to collaborate on
 - Open source projects in C++, Python, and JavaScript
@@ -107,7 +117,7 @@
 - Innovative web applications and tools
 
 ### 🏆 Achievements
-- Solved 1100+ problems on [LeetCode](https://leetcode.com/u/Soumyadeep_Singh2004/)
+- Solved 1000+ problems on [LeetCode](https://leetcode.com/u/Soumyadeep_Singh2004/)
 - Knight rank in LeetCode contests (Rating: 2084, Top 1.78%)
 - Specialist rank on [Codeforces](https://codeforces.com/profile/singhsoumya0109) (Rating: 1448)
 
