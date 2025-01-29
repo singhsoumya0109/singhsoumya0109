@@ -101,7 +101,7 @@
 
 - **[Hotels and Resorts in India](https://luxury-lodgings-in-india.onrender.com/):** A full-stack web application for managing hotels and resorts with features like adding reviews, map integration, and photo uploads using HTML, CSS, JavaScript, Node.js, and MongoDB.  
   [GitHub Repository](https://github.com/singhsoumya0109/Luxury-Lodgings-in-India)
-- **[MERN Chat App](https://chatting-app-m9df.onrender.com/chats):** A real-time chat application with support for one-to-one and group chats, developed using the MERN stack with Socket.IO for real-time communication.  
+- **[MERN Chat App](https://chatting-app-m9df.onrender.com):** A real-time chat application with support for one-to-one and group chats, developed using the MERN stack with Socket.IO for real-time communication.  
   [GitHub Repository](https://github.com/singhsoumya0109/mern-chat-app)
 
 - **[Smart Line Follower](https://github.com/singhsoumya0109/SmartLineFollower):** A line-following robot that won first place in the 'HOMECOMING' competition at Srijan 2024.  
