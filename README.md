@@ -5,7 +5,6 @@
 
 ### 🎓 About Me
 - 3rd-year B.Tech student in Computer Science at Jadavpur University, Kolkata
-- Passionate about problem-solving, software development, and cutting-edge technology
 - Experienced in full-stack development and competitive programming
 - Excited to contribute to innovative projects and develop cutting-edge solutions
 
