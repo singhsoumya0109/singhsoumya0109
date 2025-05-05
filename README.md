@@ -53,7 +53,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][2]
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)][3]
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)][4]
-[![Codeforces Badge](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)][5]
+<!--[![Codeforces Badge](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)][5]-->
 
 
 [2]: https://www.linkedin.com/in/soumyadeep-singh-347044258/
@@ -118,7 +118,7 @@
 ### 🏆 Achievements
 - Solved 1000+ problems on [LeetCode](https://leetcode.com/u/Soumyadeep_Singh2004/)
 - Knight rank in LeetCode contests (Rating: 2084, Top 1.78%)
-- Specialist rank on [Codeforces](https://codeforces.com/profile/singhsoumya0109) (Rating: 1448)
+<!--- Specialist rank on [Codeforces](https://codeforces.com/profile/singhsoumya0109) (Rating: 1448)-->
 
 ### 📫 How to Reach Me
 
